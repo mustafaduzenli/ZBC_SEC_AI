@@ -1,0 +1,5 @@
+{
+  "name": "ZBC_SEC - Application & Security Catalog",
+  "description": "An ABAP-based MVC application for managing application master data, secure key-value storage, and AES-256 encryption logic.",
+  "requestFramePermissions": []
+}
